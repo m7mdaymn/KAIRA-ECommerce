@@ -1,0 +1,24 @@
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.deps.json
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.dll
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.pdb
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.csproj.AssemblyReference.cache
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.AssemblyInfoInputs.cache
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.AssemblyInfo.cs
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.dll
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\refint\Utility.dll
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.pdb
+C:\Users\matf7\Desktop\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\ref\Utility.dll
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.deps.json
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.dll
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\Utility.pdb
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.csproj.AssemblyReference.cache
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.AssemblyInfoInputs.cache
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.AssemblyInfo.cs
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.csproj.CoreCompileInputs.cache
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.dll
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\refint\Utility.dll
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\Utility.pdb
+C:\DATA\..net course2\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\ref\Utility.dll
